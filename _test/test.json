@@ -1,0 +1,6 @@
+{
+    "hello": "This is a test",
+    "deepHello": {
+        "hello": "Hello from deep"
+    }
+}
